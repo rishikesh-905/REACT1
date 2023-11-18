@@ -1,0 +1,17 @@
+import logo from './logo.svg'; import./App.css';
+
+function App() {
+
+return (
+
+<div>
+
+<h1>lion king</h1>
+
+<img src="https://cdn.pixabay.com/photo/2018/07/31/22/08/lion- 3576845_1288.jpg"></img>
+
+</div>
+\ 
+);
+
+export default App;
